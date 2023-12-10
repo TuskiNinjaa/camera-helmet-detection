@@ -1,5 +1,5 @@
 # camera-helmet-detection
-Final work developed for the Topics in Image Processing subject at UFMS
+Final work developed for the Topics in Image Processing subject at UFMS.
 This version uses the model RTMDet tiny.
 
 ## Dependencies
