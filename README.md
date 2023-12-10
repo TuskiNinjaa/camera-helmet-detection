@@ -7,7 +7,7 @@ This version uses the model RTMDet tiny.
 - mmdet 3.2.0
 - cv2 4.7.0
 
-## How to use
+## How to use the application
 
 To use the model with your GPU (uses "cuda:0" as default):
 ```kernel
